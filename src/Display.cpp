@@ -234,13 +234,13 @@ void			Display::updateWindow(void)
 		this->Rendertextinfo();
 
 		if (i % 2 == 0)
-			ft_print_anim(this->_Cover1, 200, 700);
+			ft_print_anim(this->_Cover1, 200, 800);
 		else if (i % 5 == 0)
-			ft_print_anim(this->_Cover2, 200, 700);
+			ft_print_anim(this->_Cover2, 200, 800);
 		else if (i % 7 == 0)
-			ft_print_anim(this->_Cover3, 200, 700);
+			ft_print_anim(this->_Cover3, 200, 800);
 		else
-			ft_print_anim(this->_Cover4, 200, 700);
+			ft_print_anim(this->_Cover4, 200, 800);
 
 		while (SDL_PollEvent(&this->_event))
 		{

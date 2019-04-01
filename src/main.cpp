@@ -81,6 +81,6 @@ int			main(int argc, char **argv)
 		}
 	}
 	else
-		std::cout << "Usage ! add argument!" << std::endl;
+		std::cout << "Usage  ./ft_gkrellm [SDL] or [shell]" << std::endl;
 	return (0);
 }
