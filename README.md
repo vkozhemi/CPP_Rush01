@@ -31,7 +31,7 @@ The software design part is almost entirely at your discretion. However, you MUS
 	• Network throughput module
 
 ## ncurses
-![Image alt](https://github.com/vkozhemi/CPP_Rush00/raw/master/img/1.png)
+![Image alt](https://github.com/vkozhemi/CPP_Rush01/raw/master/img/1.png)
 
 ## SDL
-![Image alt](https://github.com/vkozhemi/CPP_Rush00/raw/master/img/2.gif)
+![Image alt](https://github.com/vkozhemi/CPP_Rush01/raw/master/img/2.gif)
